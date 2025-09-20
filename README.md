@@ -16,7 +16,6 @@ https://paste-app-six-fawn.vercel.app
 - Toast feedback
 
 ## Screenshots
-Place images in screenshots/ (same folder as this README).
 - Home  
   <img src="src/Screenshots/Homepage.png" alt="Home" width="900" />
 - All Pastes  
